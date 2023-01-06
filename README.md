@@ -113,7 +113,7 @@ To get a local copy up and running follow these simple steps.
 <!-- LICENSE -->
 ## License
 
-Uknown - project license not set.
+Distributed under the GPL-2.0 License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
