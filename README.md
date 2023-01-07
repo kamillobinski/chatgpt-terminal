@@ -75,7 +75,9 @@ To get a local copy up and running follow these simple steps.
 
     ```sh
     cd ./chatgpt-terminal
-    touch .env
+    
+    type NUL >> .env # Windows
+    touch .env # UNIX/Linux
     ```
 
 3. Add the required environment variables to the .env file - follow this [guide](./docs/auth.md)
@@ -94,6 +96,7 @@ To get a local copy up and running follow these simple steps.
 5. Execute app
 
     ```sh
+    cd ./app    
     python main.py
     ```
 
